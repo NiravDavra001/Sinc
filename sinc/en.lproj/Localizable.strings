@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  sinc
+
+  Created by mac on 05/02/21.
+  
+*/
+
+"enter_user_name"                   =  "Please enter your name";
+"enter_password"                    =  "Please enter your password";
+"enter_email"                       =  "Please enter your email";
+"enter_phone"                       =  "Please enter your phone";
+"enter_email_phone"                 =  "Please enter your email or phone";
+"enter_confirm_password"            =  "Please enter your confirm password";
+"enter_match_password"              =  "Your Password and confirm password are not match";
+"login_other_way"                   =  "Login other ways";
+"confirmation_mail"                 =  "Enter the confirmation code sent to ";
+"resend_in"                         =  "Resend in ";
+"have_child"                        =  "Do you have a children?";
+"want_child"                        =  "Do you want a children?";
+"enter_valid_password"              =  "Your password must contain at-least one speacial character, one digit,one upper case,one lower case and at-least contains length of 8";
+"questions_pets"                    =  "Do you have pets?";
+"questions_smoke"                   =  "How often you smoke?";
+"questions_drink"                   =  "How often you drink Alcohol?";
+"questions_religion"                =  "Religion";
+"valid_email"                       =  "Please enter valid mail";
+"valid_phone"                       =  "Please enter valid mobile number";
+"valid_otp"                         =  "Please enter valid otp";
+"enter_email"                       =  "Please enter email";
+"enter_phone"                       =  "Please enter mobile number";
+"select_gender"                     =  "Please select your gender";
+"select_birthdate"                  =  "Please select your date of birth";
+"select_height"                     =  "Please select your height";
+"select_religion"                   =  "Please select your religion";
+"select_smoke"                      =  "Please select do you smoke or not";
+"select_drink"                      =  "Please select do you drink or not";
+"select_alchohol"                   =  "Please select you consumes alchohol or not";
+"select_pets"                       =  "Please select you have a pet or not";
+"enter_bio"                         =  "Please enter your bio";
+"insert_picture"                    =  "Please upload your profile picture";
+"questions_looking_for"             =  "What are you looking for";
+"Education"                         =  "Education";
+"want_to_see"                       =  "I want to see";
+"sexual_type"                       =  "My sexual orientation is";
+"enter_profession"                  =  "Please enter your profession";
+"select_looking_for"                =  "Please enter your what are you looking for";
+"select_education"                  =  "Please enter your educational qualification";
+"select_sexual_orientation"         =  "Please enter your sexual orientation";
+"select_interest_in"                =  "Please enter your your intrest ";
+"not_sure"                          =  "I'm not sure";
+
+"want_see_go_premium"               = "Want to see who swiped right? Go premium";
+"enable_notificaton"                = "Enable Notificaton";
+"new_match"                         = "New Match";
+"new_message"                       = "New Message";
+"notification"                      = "Notification";
+"feedback"                          = "Feedback";
+"contact_us"                        = "Contact Us";
+"rate_us"                           = "Rate Us";
+"share"                             = "Share";
+"deleted_account"                   = "Delete Account";
+"log_out"                           = "Log Out";
+"location"                          = "Location";
+"sure_logout_accunt"                = "Are you sure you want to logout?";
+"sure_delete_account"               = "Are you sure you want to delete your account?";
+
+"enter_feedback"                    = "Please enter your feedback";

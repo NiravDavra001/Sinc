@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ReligionCollectionViewCell" customModule="sinc" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="223" height="44"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="223" height="44"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lyV-ck-PPz">
+                        <rect key="frame" x="0.0" y="0.0" width="223" height="44"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="select_button" translatesAutoresizingMaskIntoConstraints="NO" id="yuu-87-BfP">
+                                <rect key="frame" x="0.0" y="0.0" width="223" height="44"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Christan" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yOu-Xr-ewf">
+                                <rect key="frame" x="79.5" y="12" width="64" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="yOu-Xr-ewf" firstAttribute="centerY" secondItem="lyV-ck-PPz" secondAttribute="centerY" id="NSy-JG-k4j"/>
+                            <constraint firstAttribute="trailing" secondItem="yuu-87-BfP" secondAttribute="trailing" id="OZj-c3-noQ"/>
+                            <constraint firstItem="yuu-87-BfP" firstAttribute="top" secondItem="lyV-ck-PPz" secondAttribute="top" id="W0B-NY-KeY"/>
+                            <constraint firstItem="yuu-87-BfP" firstAttribute="leading" secondItem="lyV-ck-PPz" secondAttribute="leading" id="cta-Pc-oSY"/>
+                            <constraint firstItem="yOu-Xr-ewf" firstAttribute="centerX" secondItem="lyV-ck-PPz" secondAttribute="centerX" id="gv6-5a-a9t"/>
+                            <constraint firstAttribute="bottom" secondItem="yuu-87-BfP" secondAttribute="bottom" id="hCI-3O-Fz7"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="lyV-ck-PPz" secondAttribute="trailing" id="3ps-cL-8MT"/>
+                <constraint firstItem="lyV-ck-PPz" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="4MJ-9v-hsr"/>
+                <constraint firstItem="lyV-ck-PPz" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="JhI-QC-bPY"/>
+                <constraint firstAttribute="bottom" secondItem="lyV-ck-PPz" secondAttribute="bottom" id="mQn-Sg-OjF"/>
+            </constraints>
+            <size key="customSize" width="223" height="44"/>
+            <connections>
+                <outlet property="label" destination="yOu-Xr-ewf" id="rVN-Yh-UcP"/>
+                <outlet property="mainVIew" destination="lyV-ck-PPz" id="ORV-zo-TWE"/>
+                <outlet property="selectBtnImageview" destination="yuu-87-BfP" id="XQr-VE-Ez4"/>
+            </connections>
+            <point key="canvasLocation" x="257.24637681159425" y="87.053571428571431"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="select_button" width="375" height="280"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,48 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6AV-dd-nH2"; */
+"6AV-dd-nH2.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "6Rc-BF-egP"; */
+"6Rc-BF-egP.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "WelCome"; ObjectID = "73U-7c-NeA"; */
+"73U-7c-NeA.text" = "WelCome";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "H9M-1y-7ts"; */
+"H9M-1y-7ts.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Already have an account ? SIgnUp"; ObjectID = "Qhd-5U-HgM"; */
+"Qhd-5U-HgM.normalTitle" = "Already have an account ? SIgnUp";
+
+/* Class = "UILabel"; text = "Enter the confirmation code sent to johndoe@gmail.com"; ObjectID = "SaC-ta-g9h"; */
+"SaC-ta-g9h.text" = "Enter the confirmation code sent to johndoe@gmail.com";
+
+/* Class = "UILabel"; text = "Do You Have A Children?"; ObjectID = "SoT-9d-hfN"; */
+"SoT-9d-hfN.text" = "Do You Have A Children?";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Vx8-N3-K7o"; */
+"Vx8-N3-K7o.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login Another Way"; ObjectID = "WGw-eA-Txg"; */
+"WGw-eA-Txg.normalTitle" = "Login Another Way";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "WJQ-LT-y0c"; */
+"WJQ-LT-y0c.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "XhO-9j-MUs"; */
+"XhO-9j-MUs.text" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "YCi-E2-FML"; */
+"YCi-E2-FML.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Resend in (00:59)"; ObjectID = "bfJ-4f-qra"; */
+"bfJ-4f-qra.text" = "Resend in (00:59)";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "coP-DB-Ju0"; */
+"coP-DB-Ju0.text" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "p09-q2-NYy"; */
+"p09-q2-NYy.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "E-Mail/Phone"; ObjectID = "r1X-KY-pNa"; */
+"r1X-KY-pNa.placeholder" = "E-Mail/Phone";
